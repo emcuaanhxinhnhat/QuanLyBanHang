@@ -1,0 +1,13 @@
+D:\LapTrinhC#\Chuong3_bt6\bin\Debug\netcoreapp3.1\Chuong3_bt6.exe
+D:\LapTrinhC#\Chuong3_bt6\bin\Debug\netcoreapp3.1\Chuong3_bt6.deps.json
+D:\LapTrinhC#\Chuong3_bt6\bin\Debug\netcoreapp3.1\Chuong3_bt6.runtimeconfig.json
+D:\LapTrinhC#\Chuong3_bt6\bin\Debug\netcoreapp3.1\Chuong3_bt6.runtimeconfig.dev.json
+D:\LapTrinhC#\Chuong3_bt6\bin\Debug\netcoreapp3.1\Chuong3_bt6.dll
+D:\LapTrinhC#\Chuong3_bt6\bin\Debug\netcoreapp3.1\Chuong3_bt6.pdb
+D:\LapTrinhC#\Chuong3_bt6\obj\Debug\netcoreapp3.1\Chuong3_bt6.csprojAssemblyReference.cache
+D:\LapTrinhC#\Chuong3_bt6\obj\Debug\netcoreapp3.1\Chuong3_bt6.csproj.CoreCompileInputs.cache
+D:\LapTrinhC#\Chuong3_bt6\obj\Debug\netcoreapp3.1\Chuong3_bt6.AssemblyInfoInputs.cache
+D:\LapTrinhC#\Chuong3_bt6\obj\Debug\netcoreapp3.1\Chuong3_bt6.AssemblyInfo.cs
+D:\LapTrinhC#\Chuong3_bt6\obj\Debug\netcoreapp3.1\Chuong3_bt6.dll
+D:\LapTrinhC#\Chuong3_bt6\obj\Debug\netcoreapp3.1\Chuong3_bt6.pdb
+D:\LapTrinhC#\Chuong3_bt6\obj\Debug\netcoreapp3.1\Chuong3_bt6.genruntimeconfig.cache
